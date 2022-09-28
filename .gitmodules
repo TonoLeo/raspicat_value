@@ -1,0 +1,3 @@
+[submodule "raspicat_ros"]
+	path = raspicat_ros
+	url = git@github.com:CIT-Autonomous-Robot-Lab/raspicat_ros.git
